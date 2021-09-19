@@ -1,0 +1,45 @@
+body{
+    background-color: rgb(0, 0, 51);
+}
+#level-title{
+    font-family: Copperplate, Papyrus, fantasy;
+    color: white;
+    font-size: 80px;
+    text-align: center;
+}
+
+
+.container{
+    display:block ;
+    margin: auto;
+    width:40%;
+ 
+}
+.btn{
+    margin-left: 25px;
+    display: inline-block;
+    height:200px;
+    width:200px;
+    border:10px solid black;
+    border-radius: 15%;
+    
+    
+
+}
+.green{
+    background-color: green;
+   
+}
+
+.red{
+    background-color: red;
+   
+}
+.yellow{
+    background-color: yellow;
+    
+}
+.blue{
+    background-color: blue;
+   
+}
